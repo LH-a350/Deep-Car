@@ -3,7 +3,8 @@
 
 ## 📖 课程目录
 > 点击链接跳转对应课程文档
-- [Overall framework for the four major vehicle assemblies + drive layout](./class/l1_四大核心总成.md)
+- [汽车四大核心总成](./class/l1_四大核心总成.md)
+- [汽车底层行驶力学原理](./class/l2_汽车底层行驶力学原理.md)
 
 > 后续课程待补充
 
