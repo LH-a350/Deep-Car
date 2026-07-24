@@ -3,9 +3,9 @@
 
 ## 📖 课程目录
 > 点击链接跳转对应课程文档
-- [第1课：整车四大总成+驱动布局全局框架](./class/四大总成与驱动布局全局框架/汽车四大核心总成.md)
+- [Overall framework for the four major vehicle assemblies + drive layout](./class/l1_四大核心总成.md)
 
-> 后续课程持续更新补充
+> 后续课程待补充
 
 ## 📌 文档说明
 1. 行文风格偏向工程科普，语言客观严谨，弱化情绪化表述；
