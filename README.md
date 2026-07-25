@@ -16,3 +16,4 @@
 ## 📜 使用约定
 文档仅供个人自学参考。
 如需转载，请注明项目来源。
+注意！本项目严禁商用，具体请查看<kbd> https://github.com/LH-a350/Deep-Car/edit/main/LICENSE </kbd>
