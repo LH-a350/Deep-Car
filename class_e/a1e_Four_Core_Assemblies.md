@@ -78,7 +78,7 @@ It is divided into two main systems: the **low-voltage 12V system' and the new e
 - Turbine system: `Floating bearing, exhaust bypass pressure relief valve, air/water air cooler, turbine seal oil ring`
 - Engine gears: `timing gears, VVT phase adjustment gears, oil pump gears, camshaft drive gears`
 - Chassis gears: `Transmission synchronous gear rings, differential bevel gears, steering rack rack gears, planetary coupling gears`
-- Various valve components: 'oil check valves, vacuum pressure relief valves, thermostat bypass valves, EGR cooling valves, GPF differential pressure sensors`
+- Various valve components: `oil check valves, vacuum pressure relief valves, thermostat bypass valves, EGR cooling valves, GPF differential pressure sensors`
 - Body accessories: `Door lock drive gear, chassis spoiler deflector, door sealing check valve`
 
 ## VI. Basic Distinctions of Component Grades (Laying the Groundwork for Later Brand Pros and Cons Courses)
