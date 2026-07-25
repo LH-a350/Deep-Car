@@ -1,19 +1,17 @@
-# 汽车原理与构造系统学习资料
-全套共92课，全部采用 Markdown 文档整理，内容兼顾工程严谨性，覆盖燃油车、混动、增程、纯电动车辆机械与电控结构。
+# Learning materials for automotive principles and structural systems
+The entire set contains 92 lessons, all organized using Markdown documentation, ensuring engineering rigor and covering mechanical and electronic control structures for fuel vehicles, hybrids, range-extended vehicles, and pure electric vehicles.
 
-## 📖 课程目录
-> 点击链接跳转对应课程文档
-- [汽车四大核心总成](./class/l1_四大核心总成.md)
-- [汽车底层行驶力学原理](./class/l2_汽车底层行驶力学原理.md)
+## 📖 Course Catalog
+> <kbd>Click the link with ctrl </kbd> to jump to the corresponding course document(English)
+- [Four Core Automotive Assemblies](./class_e/a1e_Four_Core_Assemblies.md)
+> Follow-up courses to be supplemented
 
-> 后续课程待补充
+## 📌 Documentation
+1. The writing style leans toward engineering science popularization, with objective and rigorous language, and a reduction in emotional expression;
+2. Focuses on less frequently discussed mechanical parts on the market;
+3. All courses come with post-class review questions to facilitate self-assessment of knowledge points.
 
-## 📌 文档说明
-1. 行文风格偏向工程科普，语言客观严谨，弱化情绪化表述；
-2. 重点收录市面较少讲解的冷门机械零部件；
-3. 所有课程配套课后思考题，方便自测知识点掌握情况。
-
-## 📜 使用约定
-文档仅供个人自学参考。
-如需转载，请注明项目来源。
-注意！本项目严禁商用，具体请查看<kbd> https://github.com/LH-a350/Deep-Car/edit/main/LICENSE </kbd>
+## 📜 Use agreements
+This document is for personal study and reference only.
+If you need to reprint, please indicate the source of the project.
+Attention! This project is strictly prohibited from commercial use. Please refer to the<kbd> https://github.com/LH-a350/Deep-Car/edit/main/LICENSE </kbd>for details
