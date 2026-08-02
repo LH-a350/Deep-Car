@@ -4,6 +4,7 @@ The entire set contains 92 lessons, all organized using Markdown documentation, 
 ## 📖 Course Catalog
 > <kbd>Click the link with ctrl </kbd> to jump to the corresponding course document(English)
 - [Four Core Automotive Assemblies](./class_e/a1e_Four_Core_Assemblies.md)
+- [Underlying driving mechanics of automobiles](./class_e/a2e_Underlying_driving_mechanics_of_automobiles.md)
 > Follow-up courses to be supplemented
 
 ## 📌 Documentation
